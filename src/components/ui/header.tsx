@@ -6,9 +6,8 @@ import {
   NavigationMenu,
   NavigationMenuContent,
   NavigationMenuItem,
-  NavigationMenuLink,
-  NavigationMenuList,
   NavigationMenuTrigger,
+  NavigationMenuList,
 } from "@/components/ui/navigation-menu"
 import { Button } from "@/components/ui/button"
 
